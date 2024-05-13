@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Ajwad.
-- 👀 I’m interested in Data Science.
-- 🌱 I’m currently trying to master SQL 
+ 👋 Hi, I’m Ajwad.
+ 👀 I’m interested in Data Science.
+ 🌱 I’m currently trying to master SQL 
 
 
 <!---
